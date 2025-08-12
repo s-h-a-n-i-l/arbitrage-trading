@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arbitrage-trading"
+version = "0.1.0"
+description = "using polymarkets for arbitrage sports betting"
+requires-python = ">=3.10"
+dependencies = []
