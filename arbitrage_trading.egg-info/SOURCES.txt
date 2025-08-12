@@ -1,6 +1,0 @@
-README.md
-pyproject.toml
-arbitrage_trading.egg-info/PKG-INFO
-arbitrage_trading.egg-info/SOURCES.txt
-arbitrage_trading.egg-info/dependency_links.txt
-arbitrage_trading.egg-info/top_level.txt
